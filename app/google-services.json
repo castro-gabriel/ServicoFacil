@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531873375796",
+    "firebase_url": "https://servicofacil-4cced.firebaseio.com",
+    "project_id": "servicofacil-4cced",
+    "storage_bucket": "servicofacil-4cced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531873375796:android:b726723e9c046df6",
+        "android_client_info": {
+          "package_name": "servicofacil.gabriel.servicofacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531873375796-i700jjo5grudsag62cp91nhs5r5kc2r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "servicofacil.gabriel.servicofacil",
+            "certificate_hash": "d192fb61a7c8d25744f625dc5c565c381b86e288"
+          }
+        },
+        {
+          "client_id": "531873375796-r37e2r4timbvpvfeiholt2qjovbk91k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxbOa3rhhIL-U6-7-6NmZmj5oroospmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531873375796-r37e2r4timbvpvfeiholt2qjovbk91k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

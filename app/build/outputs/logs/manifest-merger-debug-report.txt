@@ -1,0 +1,583 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+MERGED from [com.android.support:design:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/838ea411f1e85af70c6d5052c1022183/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c9e6b345a61d7aa9431d865f077bba25/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/ea6892bdc951c5fefe35e540ee65e020/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/89a599e4986009a338488582a9b5ae52/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7b5798b18947d0f576c52efa38861a59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cd99f3dc6d754ab55ad05a032113d7e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f47d76f68a9277b56e2ce912d1f14ec7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79150f40bd4a563c78b6188be9d67593/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/9fa3b05206f2a042902f309bce00f7d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79f608a8c68badeca2f26f5d66a51e2d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/0011a77ac87a296f38b239610dc7bd8a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/38445a942bc379c068ec8254f7a644f8/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e0aab71521b100d435db84caa1ffdcf8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/66318ab6cb748002f6d3c700de69e134/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/8b4ac27668ed99ea1f063ac1b57a9869/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e1ee20b7731fdc546db56ec3b897d74c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e3f82720d94966352cbd8fd818e7a2f3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/80a7815a7fa6ea50fdedd8534dd1a061/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/407f43afeffc759372dbc871bcc6f0c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7648e8d876831e1326ed978e0eb5fa40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/883124cc3e275bd6e23f9201bd841da6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/af95f90109ba3efe00ce57737048c313/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/119923e8171714e735ec12f014117570/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/65d3bbc2a2679f5f02bc358c26fffc58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fec62194177f158be6cb04e3aa28bc05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4eb70499038a4dd308b09350a59b48b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/d5b0b5b7da4f3b2598be8c60dfc31459/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/a08526913223d89a3ba08d84fda110c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/db85cf13a7c635048aef234c5de8411a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bb57705bf87f3ee4a5d4c304f4db6e6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4fd740af077748fc78aeff5cd8d79773/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:1-97:12
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:15:22-64
+uses-feature#0x00020000
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:17:5-19:35
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:18:9-41
+	android:required
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:19:9-32
+application
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:21:5-95:19
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c9e6b345a61d7aa9431d865f077bba25/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c9e6b345a61d7aa9431d865f077bba25/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/89a599e4986009a338488582a9b5ae52/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/89a599e4986009a338488582a9b5ae52/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f47d76f68a9277b56e2ce912d1f14ec7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f47d76f68a9277b56e2ce912d1f14ec7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79f608a8c68badeca2f26f5d66a51e2d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79f608a8c68badeca2f26f5d66a51e2d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/0011a77ac87a296f38b239610dc7bd8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/0011a77ac87a296f38b239610dc7bd8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/38445a942bc379c068ec8254f7a644f8/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/38445a942bc379c068ec8254f7a644f8/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e0aab71521b100d435db84caa1ffdcf8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e0aab71521b100d435db84caa1ffdcf8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/66318ab6cb748002f6d3c700de69e134/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/66318ab6cb748002f6d3c700de69e134/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/8b4ac27668ed99ea1f063ac1b57a9869/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/8b4ac27668ed99ea1f063ac1b57a9869/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e1ee20b7731fdc546db56ec3b897d74c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e1ee20b7731fdc546db56ec3b897d74c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e3f82720d94966352cbd8fd818e7a2f3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e3f82720d94966352cbd8fd818e7a2f3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/80a7815a7fa6ea50fdedd8534dd1a061/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/80a7815a7fa6ea50fdedd8534dd1a061/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:23:9-39
+	android:allowBackup
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:27:9-40
+activity#servicofacil.gabriel.servicofacil.Telas.Splash
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:36:27-74
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioPrestador.MainPrestador
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:40:13-65
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioSolicitante.MainSolicitante
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:43:13-69
+activity#servicofacil.gabriel.servicofacil.Telas.NovaSenha
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:46:13-44
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioPrestador.LoginPrestador
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:50:13-66
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioSolicitante.LoginSolicitante
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:54:13-70
+activity#servicofacil.gabriel.servicofacil.Telas.Sobre
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:57:13-40
+activity#servicofacil.gabriel.servicofacil.Telas.TermosDeUso
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:60:13-46
+activity#servicofacil.gabriel.servicofacil.Telas.EntreEmContato
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:63:13-49
+activity#servicofacil.gabriel.servicofacil.Telas.SplashSaindo
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:67:13-47
+activity#servicofacil.gabriel.servicofacil.Telas.Notificacao
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:70:13-46
+activity#servicofacil.gabriel.servicofacil.Telas.Chat
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:73:13-39
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioSolicitante.CadastroSolicitante
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:76:13-73
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioPrestador.CadastroPrestador
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:78:9-80:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:79:13-69
+activity#servicofacil.gabriel.servicofacil.Telas.EscolhaLogin
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:82:13-47
+activity#servicofacil.gabriel.servicofacil.Telas.UsuarioPrestador.EscolherServico
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:85:13-67
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:88:9-90:55
+	android:value
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:90:13-52
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:89:13-58
+meta-data#com.google.android.gms.version
+ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:91:9-93:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:93:13-66
+	android:name
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml:92:13-58
+uses-sdk
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/838ea411f1e85af70c6d5052c1022183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/838ea411f1e85af70c6d5052c1022183/AndroidManifest.xml:20:5-44
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c9e6b345a61d7aa9431d865f077bba25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c9e6b345a61d7aa9431d865f077bba25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/ea6892bdc951c5fefe35e540ee65e020/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/ea6892bdc951c5fefe35e540ee65e020/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/89a599e4986009a338488582a9b5ae52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/89a599e4986009a338488582a9b5ae52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7b5798b18947d0f576c52efa38861a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7b5798b18947d0f576c52efa38861a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cd99f3dc6d754ab55ad05a032113d7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cd99f3dc6d754ab55ad05a032113d7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f47d76f68a9277b56e2ce912d1f14ec7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f47d76f68a9277b56e2ce912d1f14ec7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79150f40bd4a563c78b6188be9d67593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79150f40bd4a563c78b6188be9d67593/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/9fa3b05206f2a042902f309bce00f7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/9fa3b05206f2a042902f309bce00f7d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79f608a8c68badeca2f26f5d66a51e2d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/79f608a8c68badeca2f26f5d66a51e2d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/0011a77ac87a296f38b239610dc7bd8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/0011a77ac87a296f38b239610dc7bd8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/38445a942bc379c068ec8254f7a644f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/38445a942bc379c068ec8254f7a644f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e0aab71521b100d435db84caa1ffdcf8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e0aab71521b100d435db84caa1ffdcf8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/66318ab6cb748002f6d3c700de69e134/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/66318ab6cb748002f6d3c700de69e134/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/8b4ac27668ed99ea1f063ac1b57a9869/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/8b4ac27668ed99ea1f063ac1b57a9869/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e1ee20b7731fdc546db56ec3b897d74c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e1ee20b7731fdc546db56ec3b897d74c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e3f82720d94966352cbd8fd818e7a2f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/e3f82720d94966352cbd8fd818e7a2f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/80a7815a7fa6ea50fdedd8534dd1a061/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/80a7815a7fa6ea50fdedd8534dd1a061/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/1947c2e6a5c43fc22e74482b41efd8e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/407f43afeffc759372dbc871bcc6f0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/407f43afeffc759372dbc871bcc6f0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7648e8d876831e1326ed978e0eb5fa40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/7648e8d876831e1326ed978e0eb5fa40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/883124cc3e275bd6e23f9201bd841da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/883124cc3e275bd6e23f9201bd841da6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/af95f90109ba3efe00ce57737048c313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/af95f90109ba3efe00ce57737048c313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/119923e8171714e735ec12f014117570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/119923e8171714e735ec12f014117570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/65d3bbc2a2679f5f02bc358c26fffc58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/65d3bbc2a2679f5f02bc358c26fffc58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fec62194177f158be6cb04e3aa28bc05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fec62194177f158be6cb04e3aa28bc05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4eb70499038a4dd308b09350a59b48b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4eb70499038a4dd308b09350a59b48b7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/d5b0b5b7da4f3b2598be8c60dfc31459/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/d5b0b5b7da4f3b2598be8c60dfc31459/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/a08526913223d89a3ba08d84fda110c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/a08526913223d89a3ba08d84fda110c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/db85cf13a7c635048aef234c5de8411a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/db85cf13a7c635048aef234c5de8411a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bb57705bf87f3ee4a5d4c304f4db6e6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bb57705bf87f3ee4a5d4c304f4db6e6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4fd740af077748fc78aeff5cd8d79773/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/4fd740af077748fc78aeff5cd8d79773/AndroidManifest.xml:20:5-44
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Área de Trabalho/ServicoFacil-master/app/src/main/AndroidManifest.xml
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f178bff5be3d1471517e4f7e5a7dd47b/AndroidManifest.xml:34:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/fbdf5ab7c76f11b4a57b7af11dc86e27/AndroidManifest.xml:31:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.2.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/f3f100ea63e98836737a7b5ffad786f1/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/cb25a6f5f3192a987e2ac49f668573a8/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/42a828b79aa85ed41d109ce1f21fe277/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /home/gabriel/.gradle/caches/transforms-2/files-2.1/c19d0f1c2361cd2a5f4cc3759a376f05/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gabriel/.gradle/caches/transforms-2/files-2.1/07f5329e617591c7613dfe367592e840/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/bdc3ddb0b4596a724bd054fd194c852b/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/27f20c3044d631c84781cefd2d19adc7/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/gabriel/.gradle/caches/transforms-2/files-2.1/45c607702536119c6b03ff341be4b470/AndroidManifest.xml:49:13-87

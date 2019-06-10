@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    tools:context="servicofacil.gabriel.servicofacil.Telas.EscolhaLogin">
+
+    <Button
+        android:id="@+id/btn_us"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btn_uc"
+        android:layout_marginTop="-218dp"
+        android:background="@android:color/holo_blue_dark"
+        android:padding="10dp"
+        android:text="Fornecer serviços"
+        android:textColor="@android:color/background_light"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:text="Bem Vindo!"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="99dp"
+        android:text="Ao ServiçoFácil"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_uc"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="218dp"
+        android:background="@android:color/background_light"
+        android:padding="10dp"
+        android:text="Solicitar serviços"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="167dp"
+        android:text="O que deseja?"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="537dp"
+        android:text="www.servicofacil.com.br"
+        android:textSize="15sp" />
+
+</RelativeLayout>

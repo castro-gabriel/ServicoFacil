@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="servicofacil.gabriel.servicofacil.Telas.UsuarioSolicitante.Tabs.MainUsuario">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_dark"
+        android:paddingTop="@dimen/appbar_padding_top"
+        android:theme="@style/AppTheme.AppBarOverlay" >
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_servidor"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_dark"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+        </android.support.v7.widget.Toolbar>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs_servidor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_blue_dark">
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tab_pesquisar_servidor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/baseline_search_white_18dp"/>
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tab_historico_servidor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/baseline_history_white_18dp"/>
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tab_perfil_servidor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:icon="@drawable/baseline_perm_identity_white_18dp"/>
+
+        </android.support.design.widget.TabLayout>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/container_servidor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </android.support.v4.view.ViewPager>
+
+
+    <!--<android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_pesquisar_servidor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/ic_search_black_24dp"
+        app:backgroundTint="@color/colorPrimary"
+        android:tint="@android:color/background_light"
+        tools:ignore="UnusedAttribute" />
+
+
+    <Toolbar
+        android:id="@+id/toolbar_pesquisa"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center|bottom"
+        android:background="@android:color/background_light"
+        tools:targetApi="lollipop">
+
+        <ImageView
+            android:id="@+id/btn_voltar_pesquisa"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:srcCompat="?attr/homeAsUpIndicator" />
+
+        <EditText
+            android:id="@+id/campo_servico_pesquisado"
+            android:layout_width="190dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:hint="Pesquisar serviço..." />
+
+        <ImageView
+            android:id="@+id/btn_pesquisar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginHorizontal="@dimen/activity_horizontal_margin"
+            app:srcCompat="?android:attr/actionModeWebSearchDrawable" />
+
+    </Toolbar>
+    -->
+
+</android.support.design.widget.CoordinatorLayout>

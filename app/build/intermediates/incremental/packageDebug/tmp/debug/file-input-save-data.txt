@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 05 02:07:43 BRT 2019
+0.baseType=DIRECTORY
+0.base=/home/gabriel/Área de Trabalho/ServicoFacil-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

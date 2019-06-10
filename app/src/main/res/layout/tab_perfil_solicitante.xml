@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteY="25dp">
+
+    <ImageView
+        android:id="@+id/fotoUserPerfil_u"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/user" />
+
+    <TextView
+        android:id="@+id/nomeUserPerfil_u"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Nome"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/emailUserPerfil_u"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"
+        android:text="E-mail" />
+
+    <TextView
+        android:id="@+id/telUserPerfil_u"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"
+        android:text="Telefone" />
+
+    <Button
+        android:id="@+id/trabalheConosco"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="bottom"
+        android:background="?attr/actionModeSplitBackground"
+        android:text="Trabalhe concosco"
+        android:textColor="@android:color/background_light"/>
+
+
+</LinearLayout>

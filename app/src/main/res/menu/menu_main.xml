@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="bill.servicofacil.bill.servicofacil.Telas.Main.MainUsuario">
+
+    <item
+        android:id="@+id/action_ativo_inativo"
+        android:icon="@drawable/bola_vermelha"
+        android:title="Ativo ou Inativo"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_notificacao"
+        android:orderInCategory="100"
+        android:title="@string/menu_notificacao"
+        android:icon="@drawable/baseline_notification_important_white_18dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_chat"
+        android:orderInCategory="200"
+        android:title="@string/menu_chat"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_entrar_contato"
+        android:orderInCategory="300"
+        android:title="@string/menu_entre_contato"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sobre"
+        android:orderInCategory="400"
+        android:title="@string/menu_sobre"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_termos_uso"
+        android:orderInCategory="500"
+        android:title="@string/menu_termos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="600"
+        android:title="@string/menu_sair"
+        app:showAsAction="never" />
+
+</menu>

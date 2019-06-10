@@ -1,0 +1,4 @@
+#Wed Jun 05 18:56:09 BRT 2019
+base.0=/home/gabriel/Área de Trabalho/ServicoFacil-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
